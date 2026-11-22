@@ -167,7 +167,7 @@ class vTime(TimeBase):
 
         .. seealso::
 
-            :rfc:`5545#section-3.3.12` for the ``TIME`` value type.
+            :rfc:`5545#section-3.3.12` for the TIME value type.
 
         """
         return self.dt
